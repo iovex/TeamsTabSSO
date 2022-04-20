@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\TeamsTabSSO.csproj",
+  "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\TeamsTabSSO.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,48 +14402,48 @@
   "RootNamespace": "TeamsTabSSO",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\Views\\Auth\\End.cshtml",
-      "TargetPath": "Views\\Auth\\End.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\Views\\Auth\\Start.cshtml",
-      "TargetPath": "Views\\Auth\\Start.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\Views\\Home\\Configure.cshtml",
+      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\Views\\Home\\Configure.cshtml",
       "TargetPath": "Views\\Home\\Configure.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\Views\\Auth\\End.cshtml",
+      "TargetPath": "Views\\Auth\\End.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\Views\\Auth\\Start.cshtml",
+      "TargetPath": "Views\\Auth\\Start.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\Microsoft-Teams-Samples\\samples\\tab-sso\\csharp\\TeamsTabSSO\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\wemen\\OneDrive - Microsoft\\文档\\Devs\\Teams\\TeamsTabSSO\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
